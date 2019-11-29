@@ -1,0 +1,2 @@
+ddtm=20180923005832 DFME_AIRL[flid=1417572, ffid=YS-529-20180923-D, airl=ARPT[arno=1, apcd=TSN, fptt=20180923080000, fett=null, frtt=null, fplt=null, felt=null, frlt=null, apat=2403], ARPT[arno=2, apcd=PVG, fptt=null, fett=null, frtt=null, fplt=20180923093500, felt=null, frlt=null, apat=2403], ]
+仅以测试机场替换成中文的问题，问题来自于GBK和UTF-8
